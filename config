@@ -1,0 +1,15 @@
+# Default config file
+#
+#       Freaky Caller 1.0
+# Written by Shubham Vishwakarma
+#
+# Call Bomber that make multiple calls
+# to a number
+#
+# https://github.com/shubhamvis98
+#
+# Runs only on rooted android devices
+
+PH_NO='79966432890'
+C_INT='100'
+
